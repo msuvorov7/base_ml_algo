@@ -24,4 +24,4 @@ implementation of basic ML algorithms
 - ElasticLogReg - логистическая регрессия для бинарной классификации с регуляризациями {l_1} и {l_2}
 - ElasticSoftmaxReg логистическая регрессия для многоклассовой классификации с регуляризациями $$l_1$$ и $$l_2$$
 
-\sum_{\forall i}{x_i^{2}}
+![\sum_{\forall i}{x_i^{2}}]
