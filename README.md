@@ -7,6 +7,7 @@ implementation of basic ML algorithms
 - KNNRegressor - алгоритм регресии
 - BatchedKNNClassifier - модификация классификатора для подстёта по батчам
 - BatchedKNNRegressor - модификация регрессора для подсчёта по батчам
+
 Реализация содержит:
 - евклидову и косинусную метрику
 - поддержку поиска методами kd_tree, ball_tree, brute из sklearn
