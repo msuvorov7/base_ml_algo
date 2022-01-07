@@ -24,3 +24,4 @@ implementation of basic ML algorithms
 - ElasticLogReg - логистическая регрессия для бинарной классификации с регуляризациями Ridge и Lasso
 - ElasticSoftmaxReg - логистическая регрессия для многоклассовой классификации с регуляризациями Ridge и Lasso
 
+## tree
