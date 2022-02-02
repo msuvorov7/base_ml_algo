@@ -25,3 +25,10 @@ implementation of basic ML algorithms
 - ElasticSoftmaxReg - логистическая регрессия для многоклассовой классификации с регуляризациями Ridge и Lasso
 
 ## tree
+- ClassificationDecisionTree - алгоритм классификации на основе дерева решений
+- RegressionDecisionTree - алгоритм регрессии на основе дерева решений
+
+Реализация содержит:
+- энтропийный критерий
+- критерй Джини
+- MSE критерий
