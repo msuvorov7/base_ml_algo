@@ -35,7 +35,7 @@ implementation of basic ML algorithms
 
 ## svm
 - LinearSVC - классический линейный классификатор методом опорных векторов
-- SVC - классификатор [https://habr.com/ru/post/544282/] с использованием ядер:
+- SVC - [классификатор](https://habr.com/ru/post/544282/) с использованием ядер:
   - Linear - линейное ядро
   - RBF - радиальное базисное ядро
 
