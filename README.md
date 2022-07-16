@@ -23,6 +23,7 @@ implementation of basic ML algorithms
 - SGDSoftmaxReg - логистическая регрессия для многоклассовой классификации по батчам
 - ElasticLogReg - логистическая регрессия для бинарной классификации с регуляризациями Ridge и Lasso
 - ElasticSoftmaxReg - логистическая регрессия для многоклассовой классификации с регуляризациями Ridge и Lasso
+- LinearClassifier - обобщенная модель линейного классификатора (аналог SGDClassifier) для меток {-1,1}
 
 ## tree
 - ClassificationDecisionTree - алгоритм классификации на основе дерева решений
@@ -53,3 +54,4 @@ implementation of basic ML algorithms
 - BoostingClassifier - градиентный бустинг для бинарной классификации, использующий производную logloss
 - BoostingMultiClassifier - градиентный бустинг для многоклассовой классификации, использующий производную кросс-энтропии
 - BoostingRegressor - градиентный бустинг для задачи регрессии, использующий производную mse loss
+- AdaBoosting - классификатор на основе адаптивного бустинга на основе решающих деревьев
